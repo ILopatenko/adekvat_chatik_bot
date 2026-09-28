@@ -1,0 +1,26 @@
+{
+  "name": "adekvat_chatik_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ILopatenko/adekvat_chatik_bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ILopatenko/adekvat_chatik_bot/issues"
+  },
+  "homepage": "https://github.com/ILopatenko/adekvat_chatik_bot#readme",
+  "dependencies": {
+    "dotenv": "^18.0.4",
+    "input": "^1.0.1",
+    "telegram": "^2.26.22"
+  }
+}
