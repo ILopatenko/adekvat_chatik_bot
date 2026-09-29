@@ -21,6 +21,8 @@
   "dependencies": {
     "dotenv": "^18.0.4",
     "input": "^1.0.1",
+    "node-cron": "^4.6.0",
+    "pg": "^8.23.0",
     "telegram": "^2.26.22"
   }
 }
